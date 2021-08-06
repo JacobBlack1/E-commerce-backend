@@ -29,4 +29,3 @@ Category.init(
 );
 
 module.exports = Category;
-© 2021
